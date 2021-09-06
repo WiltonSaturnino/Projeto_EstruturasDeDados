@@ -36,4 +36,8 @@ Executar:
 Ao rodar o programa será gerado arquivos filtrados pelos algoritmos de maneira que será eles serão os resultados do aruivos brutos tratados. 
 Ao final tem-se um arquivo em texto que contém o comparativo de tempo entre os algoritmos de ordenação dos diferentes casos de complexidade
 (Melhor, Pior e médio caso). Estes dados são direcionados ao excel para que os gráficos sejam plotados. 
-Você deve adicionar a pasta chamada CovidAnalyser, insira o arquivo caso.csv na pasta de dadosbrutos, você pode achá-la seguindo esta estrutura CovidAnalyser > data > dadosbrutos.   
+Você deve adicionar a pasta chamada CovidAnalyser, insira o arquivo caso.csv na pasta de dadosbrutos, você pode achá-la seguindo esta estrutura CovidAnalyser > data > dadosbrutos.
+
+Link:
+https://drive.google.com/file/d/1VX-BVS_R7TFuIP92wBl7FAiHnasbV1CY/view
+
