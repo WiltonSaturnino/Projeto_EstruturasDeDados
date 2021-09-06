@@ -40,4 +40,4 @@ Você deve adicionar a pasta chamada CovidAnalyser, insira o arquivo caso.csv na
 
 Link:
 https://drive.google.com/file/d/1VX-BVS_R7TFuIP92wBl7FAiHnasbV1CY/view
-
+https://drive.google.com/file/d/1uUU8Y3PeS8NOr7R7OafBZ9FfZzlqEj5j/view?usp=sharing
